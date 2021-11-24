@@ -25,7 +25,7 @@ No, learn fish. *I might create a python script for it because python rulez*
 
 ## Alright alright, how do I install this crap?
 
-`wget https://raw.githubusercontent.com/absolute-quantum/fish-giefpass/master/giefpass.sh /usr/share/fish/conf.d/ && exec fish`
+`wget https://raw.githubusercontent.com/absolute-quantum/fish-giefpass/master/giefpass.sh /etc/fish/conf.d/ && exec fish`
 
 ## And how should I use it?
 
