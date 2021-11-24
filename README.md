@@ -29,7 +29,7 @@ Why not? Generating secure passwords should be ALWAYS done.
 
 ## I don't have fish, can I use this with bash?
 
-No, use fish (`apt install fish`) BOOM, you are set! 
+No, use fish (`apt install fish && chsh -s /usr/bin/fish && fish`) BOOM, you are in! 
 
 *And: I might create a python script for it because python rulez*
 
