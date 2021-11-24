@@ -53,7 +53,7 @@ No, use fish :3 (`apt install fish && chsh -s /usr/bin/fish && fish`) BOOM, you 
 
 In one AWESOME one-liner:
 
-`wget https://raw.githubusercontent.com/absolute-quantum/fish-giefpasspls/master/giefpasspls.fish -o /etc/fish/conf.d/giefpasspls.fish && exec fish`
+`wget https://raw.githubusercontent.com/absolute-quantum/fish-giefpasspls/master/giefpasspls.fish -O /etc/fish/conf.d/giefpasspls.fish && chmod +x /etc/fish/conf.d/giefpasspls.fish && exec fish`
 
 ## And how should I use it?
 
