@@ -29,7 +29,9 @@ Why not? Generating secure passwords should be ALWAYS done.
 
 ## I don't have fish, can I use this with bash?
 
-No, learn fish. *I might create a python script for it because python rulez*
+No, use fish (`apt install fish`) BOOM, you are set! 
+
+*And: I might create a python script for it because python rulez*
 
 ## Alright alright, how do I install this crap?
 
