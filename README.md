@@ -51,9 +51,7 @@ No, use fish :3 (`apt install fish && chsh -s /usr/bin/fish && fish`) BOOM, you 
 
 ## Alright alright, how do I install this crap?
 
-In one AWESOME one-liner:
-
-`wget https://raw.githubusercontent.com/absolute-quantum/fish-giefpasspls/master/giefpasspls.fish -O /etc/fish/conf.d/giefpasspls.fish && chmod +x /etc/fish/conf.d/giefpasspls.fish && exec fish`
+OMG I WILL UPDATE THIS WHEN I HAVE LEARNED FISHER
 
 ## And how should I use it?
 
