@@ -13,7 +13,7 @@ It checks if your linux her entropy generation is acceptable enough and generate
 
 ## Does it use internet?
 
-No.
+No. Unless you don't have the required packages
 
 ## Why would I use this?
 
