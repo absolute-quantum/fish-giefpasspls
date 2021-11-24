@@ -1,4 +1,4 @@
-# GIEFPASS
+# 🐟 GIEFPASS
 
 Made with ❤️️ for FOSS and privacy
 
