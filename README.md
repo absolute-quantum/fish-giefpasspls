@@ -35,7 +35,11 @@ No, use fish (`apt install fish && chsh -s /usr/bin/fish && fish`) BOOM, you are
 
 ## Alright alright, how do I install this crap?
 
-`wget https://raw.githubusercontent.com/absolute-quantum/fish-giefpass/master/giefpass.sh /etc/fish/conf.d/ && exec fish`
+```sh
+apt install wget
+wget https://raw.githubusercontent.com/absolute-quantum/fish-giefpass/master/giefpass.sh /etc/fish/conf.d/
+exec fish
+```
 
 ## And how should I use it?
 
